@@ -17,5 +17,6 @@ let eva00:Evet = {
 }
 console.log(eva00);
 console.log("测试");
+console.log("测试");
 
 
