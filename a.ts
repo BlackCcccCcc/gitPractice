@@ -16,4 +16,6 @@ let eva00:Evet = {
     location: someWhere
 }
 console.log(eva00);
+console.log("测试");
+
 
